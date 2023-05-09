@@ -3,7 +3,6 @@
 - 🌱 Currently working on IOT applications
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatherofcamels&show_icons=true&theme=dark"/>
 
 
 
