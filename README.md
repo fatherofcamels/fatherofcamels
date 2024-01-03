@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fatherofcamels
+- 👋 Hi, I’m Abubakar Yusuf
 - 👀 I’m interested in collaborative-tech
 - 🌱 Currently working on IOT applications
-
 
 
 
