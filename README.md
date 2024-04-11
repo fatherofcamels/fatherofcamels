@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakar Yusuf
 - 👀 I’m interested in collaborative-tech
-- 🌱 Currently working on IOT applications
+- 🌱 Currently working on IOT applications and Robot Communication
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatherofcamels/fatherofcamels/output/github-contribution-grid-snake-dark.svg">
