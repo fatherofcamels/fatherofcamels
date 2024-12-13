@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abubakar Yusuf
-- 👀 I’m interested in collaborative-tech
+- 👀 I’m interested in collaborative-tech and Cloud Infrastructure
 - 🌱 Currently working on IOT applications and Robot Communication
 
 <picture>
